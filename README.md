@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivlakmilos&show_icons=true&theme=transparent)
 
 #### Currently working on
-[![Monkey Interpreter](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&repo=ts-monkey-interpreter)](https://github.com/anuraghazra/github-readme-stats)
+[![Monkey Interpreter](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&theme=transparent&repo=ts-monkey-interpreter)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Fintrack](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&repo=fintrack)](https://github.com/zivlakmilos/fintrack)
 
