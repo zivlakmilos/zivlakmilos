@@ -12,7 +12,7 @@
 
 #### 📫 How to reach me:
 
-- [zivlak.rs](htts://zivlak.rs)
+- [zivlak.rs](https://zivlak.rs)
 
 <!--
 
