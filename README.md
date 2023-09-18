@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=transparent)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=zivlakmilos&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### Currently working on
 
 [![Monkey Interpreter](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&theme=transparent&repo=ts-monkey-interpreter)](https://github.com/zivlakmilos/ts-monkey-interpreter)
