@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivlakmilos&show_icons=true&theme=transparent)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=transparent)](https://git.io/streak-stats)
 
 #### Currently working on
 
