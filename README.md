@@ -4,6 +4,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivlakmilos&show_icons=true&theme=transparent)
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=dark)](https://git.io/streak-stats)
+
 #### Currently working on
 
 [![Monkey Interpreter](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&theme=transparent&repo=ts-monkey-interpreter)](https://github.com/zivlakmilos/ts-monkey-interpreter)
