@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=transparent)](https://git.io/streak-stats)
 
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zivlakmilos&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=zivlakmilos&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Currently working on
