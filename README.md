@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivlakmilos&show_icons=true&theme=transparent)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=transparent&hide-border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zivlakmilos&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zivlakmilos&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
