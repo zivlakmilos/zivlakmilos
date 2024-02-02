@@ -12,15 +12,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=zivlakmilos&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-#### Currently working on
+#### 🔭 Currently working on
 
-[![Monkey Interpreter](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&theme=transparent&repo=ts-monkey-interpreter)](https://github.com/zivlakmilos/ts-monkey-interpreter)
-
-[![Fintrack](https://github-readme-stats.vercel.app/api/pin/?username=zivlakmilos&theme=transparent&repo=fintrack)](https://github.com/zivlakmilos/fintrack)
+[![Gophoria](https://github-readme-stats.vercel.app/api/pin/?username=gophoria&theme=transparent&repo=gophoria)](https://github.com/gophoria/gophoria)
 
 #### 📫 How to reach me:
 
 - [zivlak.rs](https://zivlak.rs)
+- [lyra-it.com](https://lyra-it.com)
 
 <!--
 
